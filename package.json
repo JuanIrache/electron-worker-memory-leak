@@ -1,0 +1,16 @@
+{
+  "name": "juvenile-device-arrive-n7qbx",
+  "productName": "juvenile-device-arrive-n7qbx",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "juanirache",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "24.0.0-beta.2"
+  }
+}
